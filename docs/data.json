@@ -1,1 +1,123 @@
-{"status": "not refreshed yet"}
+{
+  "updated_at": "2026-10-09T21:36:44+00:00",
+  "window_days": 30,
+  "kpis": {
+    "workitems": 671,
+    "connected": 257,
+    "abandoned_calls": 62,
+    "transferred_calls": 136,
+    "talk_avg_sec": 170.0,
+    "hold_avg_sec": 1.5,
+    "acw_avg_sec_capped": 135.0,
+    "aht_mean_sec_capped": 278.2,
+    "aht_median_sec": 101.5,
+    "stuck_over_1h": 14
+  },
+  "coverage": [
+    {
+      "campaignName": "TEST ConnorW Bank DTMF",
+      "connected_calls": 61,
+      "with_summary": 15,
+      "short_isdc": 0,
+      "long_composite": 15
+    },
+    {
+      "campaignName": "Xbert Shop - DTMF",
+      "connected_calls": 58,
+      "with_summary": 39,
+      "short_isdc": 0,
+      "long_composite": 39
+    },
+    {
+      "campaignName": "Xbert Bank - DTMF",
+      "connected_calls": 30,
+      "with_summary": 24,
+      "short_isdc": 0,
+      "long_composite": 24
+    },
+    {
+      "campaignName": "Xbert AI",
+      "connected_calls": 28,
+      "with_summary": 23,
+      "short_isdc": 0,
+      "long_composite": 23
+    },
+    {
+      "campaignName": "Xbert Shop - IVA",
+      "connected_calls": 17,
+      "with_summary": 15,
+      "short_isdc": 0,
+      "long_composite": 15
+    },
+    {
+      "campaignName": "Xbert Care - DTMF",
+      "connected_calls": 12,
+      "with_summary": 8,
+      "short_isdc": 0,
+      "long_composite": 8
+    },
+    {
+      "campaignName": "Title Insurance Demo",
+      "connected_calls": 10,
+      "with_summary": 10,
+      "short_isdc": 0,
+      "long_composite": 0
+    },
+    {
+      "campaignName": "Connor Test",
+      "connected_calls": 10,
+      "with_summary": 5,
+      "short_isdc": 0,
+      "long_composite": 5
+    },
+    {
+      "campaignName": "PSI",
+      "connected_calls": 9,
+      "with_summary": 9,
+      "short_isdc": 0,
+      "long_composite": 9
+    },
+    {
+      "campaignName": "Xbert Shop - Outbound",
+      "connected_calls": 8,
+      "with_summary": 7,
+      "short_isdc": 3,
+      "long_composite": 4
+    },
+    {
+      "campaignName": "Xbert Care - IVA",
+      "connected_calls": 5,
+      "with_summary": 4,
+      "short_isdc": 0,
+      "long_composite": 4
+    },
+    {
+      "campaignName": "Xbert Intake - IVA",
+      "connected_calls": 5,
+      "with_summary": 5,
+      "short_isdc": 5,
+      "long_composite": 0
+    },
+    {
+      "campaignName": "Xbert Bank - IVA",
+      "connected_calls": 3,
+      "with_summary": 3,
+      "short_isdc": 0,
+      "long_composite": 3
+    },
+    {
+      "campaignName": "Xbert Care - Outbound",
+      "connected_calls": 1,
+      "with_summary": 1,
+      "short_isdc": 1,
+      "long_composite": 0
+    },
+    {
+      "campaignName": "Xbert Bank - Outbound",
+      "connected_calls": 1,
+      "with_summary": 0,
+      "short_isdc": 0,
+      "long_composite": 0
+    }
+  ]
+}
